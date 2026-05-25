@@ -61,9 +61,7 @@ Focused on **Angular 21** modern patterns:
 
 ## 📊 GitHub Stats
 
-![Claudio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudioferreira87&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioferreira87&layout=compact&theme=dark&hide_border=true)
+![Claudio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudioferreira87&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
