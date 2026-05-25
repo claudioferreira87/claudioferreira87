@@ -59,12 +59,6 @@ Focused on **Angular 21** modern patterns:
 
 ---
 
-## 📊 GitHub Stats
-
-![Claudio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudioferreira87&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
-
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudio-ferreira-01099625)
